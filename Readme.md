@@ -1,4 +1,4 @@
-# Scanner and Parser Genaration
+# Scanner and Parser Generation
 
 This is a lexical analyser genarated using flex and a sysntax analyser genarated using bison for the language (named C-) specified below.
   
